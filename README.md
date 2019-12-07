@@ -1,2 +1,2 @@
 # Progra2
-Proyecto de progra2
+Portafolio de progra2
